@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  otterwiki:
+  - apiVersion: v2
+    appVersion: "2"
+    created: "2025-09-13T19:58:07.154486393Z"
+    description: An Otter Wiki is a minimalstic wiki powered by python, markdown and
+      git.
+    digest: cedffb0170386b2297028af13112affe9c8dc51fe40d5c7f85fe3c0c3f64e806
+    home: https://otterwiki.com
+    icon: https://github.com/redimp/otterwiki/blob/c805922fe886f724eefdd118ac0c1d444d59c8aa/otterwiki/static/img/otterhead.png
+    maintainers:
+    - email: mail@redimp.de
+      name: Ralph Thesen
+    name: otterwiki
+    sources:
+    - https://github.com/redimp/otterwiki
+    type: application
+    urls:
+    - https://github.com/Schmitzis/otterwiki/releases/download/otterwiki-0.1.1/otterwiki-0.1.1.tgz
+    version: 0.1.1
+generated: "2025-09-13T19:58:07.154496802Z"
